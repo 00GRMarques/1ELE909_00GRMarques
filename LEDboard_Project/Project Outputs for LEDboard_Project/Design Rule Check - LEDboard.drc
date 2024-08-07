@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\00grm\Documents\Repos\1ELE909_00GRMarques\LEDboard_Project\LEDboard.PcbDoc
-Date     : 24/07/2024
-Time     : 09:27:28
+Date     : 07/08/2024
+Time     : 09:37:01
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
