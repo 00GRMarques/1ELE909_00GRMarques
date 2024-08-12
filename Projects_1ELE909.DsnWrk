@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=LEDboard_Project\LEDboard_Project.PrjPcb
+[Project2]
+ProjectPath=ComponentsHC11_Project\ComponentsHC11_Project.PrjPcb
